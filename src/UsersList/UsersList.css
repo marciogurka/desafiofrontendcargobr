@@ -1,0 +1,7 @@
+.user-list {
+  flex-wrap: wrap;
+}
+
+.is-selected {
+  background-color: #428bca3d;
+}

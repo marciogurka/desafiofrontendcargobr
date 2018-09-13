@@ -3,7 +3,7 @@
 This is a React application using axios and bulma.
 
 ## Live demo
-You can check the live demo [here](http://marciogurka.com/react-cornerstone-app/).
+You can check the live demo [here](https://www.marciogurka.com/desafiofrontendcargobr/).
 
 ## How to use it
   - Clone the repo into your computer.

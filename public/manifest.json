@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "desafiofrontendcargobr",
+  "name": "This is a React application using axios and bulma.",
   "icons": [
     {
       "src": "favicon.ico",

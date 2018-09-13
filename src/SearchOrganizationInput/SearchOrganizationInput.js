@@ -30,7 +30,7 @@ class SearchOrganizationInput extends Component {
 
   render() {
     return (
-      <form onSubmit={this.doSearch}>
+      <form onSubmit={this.doSearch} className="search-form">
         <div className="field has-addons">
           <div className="control">
               <input className="input" type="text" placeholder="Organization name" value={this.state.organizationName} onChange={this.handleInputChange('organizationName')}/>
